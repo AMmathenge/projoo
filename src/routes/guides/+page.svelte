@@ -1,28 +1,19 @@
-<script>
-   
+<script context ="module">
+ 
+         
 </script>
-
-<div class="guides">
-    <header>
-        <h1>guides</h1>
-    </header>
+ 
+<body>
     <body>
-       <div>
-        <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda aut labore quam sint tempore, consequuntur consectetur eligendi provident deserunt ipsam temporibus nulla repellendus dolorem sapiente odio, ullam pariatur commodi voluptate.     
-        </p>
-       </div>
-    </body>
-    <a href="/about">view Guides</a>
-    <a href="/">Home</a>
-    
 
-</div>
+        
+        </body>
+</body>
+
+    
+ 
 <style>
-    .guides{
-        text-align: center;
-        display: block;
+    .guides {
         margin: 20px auto;
     }
-
 </style>

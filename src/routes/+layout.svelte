@@ -5,7 +5,7 @@
 
 
 <header>
-    <Title title="water" />
+    <Title title="ANTHONY" />
     <div class="links">
         <a href="/">Home</a>
         <a href="/about">About</a>
@@ -18,6 +18,10 @@
 </main>
 <footer>
     <p>copyright 2022 QUENCHER YOUR THIRST</p>
+    <a href="https://twitter.com/home">
+        <img src="/home/anthony/anthony-project/static/icons8-twitter-48.png" alt="">
+    </a>
+    
 </footer>
 
 <style>
